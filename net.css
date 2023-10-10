@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+.form {
+    text-align: center;
+
+    width: 400px;
+
+
+
+    padding-left: 250px;
+
+    padding-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.title {
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-right: 100px;
+
+}
+
+.Sign a {
+    border-radius: 2em;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    padding: 12px 30px 12px 30px;
+    text-decoration: none;
+    width: auto;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.Sign {
+    text-align: center;
+    padding-right: 100px;
+
+}
+
+.sup {}
+
+.sup a {
+    border-radius: 2em;
+    background-color: rgb(50, 50, 50);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+
+}
+
+.acc {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding-right: 100px;
+}
